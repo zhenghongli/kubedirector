@@ -55,7 +55,7 @@
             }
         ],
         "defaultConfigPackage": {
-            "packageURL": "file:///opt/configscript/appconfig.tgz"
+            "packageURL": "file:///opt/configscripts/appconfig.tgz"
         },
         "roles": [{
             "imageRepoTag": "zhenghongli/kd-notebook:0.0.1",
